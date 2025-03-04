@@ -1,2 +1,2 @@
 # registeum.nvim
-A low quality, nvim plugin manager written by rust.
+A low quality, nvim plugin manager written in rust.
